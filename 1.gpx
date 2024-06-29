@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="GPSBabel - https://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
+  <time>2024-06-26T16:03:01.027Z</time>
+  <bounds minlat="-23.437383352" minlon="-70.568000022" maxlat="-23.064733325" maxlon="-70.441049980"/>
+  <wpt lat="-23.411349999" lon="-70.441049980">
+    <name>001</name>
+    <cmt>001</cmt>
+    <desc>001</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="-23.336583339" lon="-70.545316665">
+    <name>002</name>
+    <cmt>002</cmt>
+    <desc>002</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="-23.317200020" lon="-70.527816676">
+    <name>003</name>
+    <cmt>003</cmt>
+    <desc>003</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="-23.289016625" lon="-70.538316686">
+    <name>004</name>
+    <cmt>004</cmt>
+    <desc>004</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="-23.279133355" lon="-70.534516666">
+    <name>005</name>
+    <cmt>005</cmt>
+    <desc>005</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="-23.135433337" lon="-70.559549974">
+    <name>006</name>
+    <cmt>006</cmt>
+    <desc>006</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="-23.099633306" lon="-70.567266690">
+    <name>007</name>
+    <cmt>007</cmt>
+    <desc>007</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="-23.090866674" lon="-70.568000022">
+    <name>008</name>
+    <cmt>008</cmt>
+    <desc>008</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="-23.064733325" lon="-70.547233354">
+    <name>009</name>
+    <cmt>009</cmt>
+    <desc>009</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="-23.068433348" lon="-70.517550018">
+    <name>010</name>
+    <cmt>010</cmt>
+    <desc>010</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="-23.130400004" lon="-70.498516643">
+    <name>011</name>
+    <cmt>011</cmt>
+    <desc>011</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="-23.132633362" lon="-70.479966654">
+    <name>012</name>
+    <cmt>012</cmt>
+    <desc>012</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="-23.121483335" lon="-70.470183296">
+    <name>013</name>
+    <cmt>013</cmt>
+    <desc>013</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="-23.106383337" lon="-70.456566643">
+    <name>014</name>
+    <cmt>014</cmt>
+    <desc>014</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="-23.107650010" lon="-70.452083331">
+    <name>015</name>
+    <cmt>015</cmt>
+    <desc>015</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="-23.120050030" lon="-70.456266655">
+    <name>016</name>
+    <cmt>016</cmt>
+    <desc>016</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="-23.121500015" lon="-70.469766632">
+    <name>017</name>
+    <cmt>017</cmt>
+    <desc>017</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="-23.168949969" lon="-70.497266650">
+    <name>018</name>
+    <cmt>018</cmt>
+    <desc>018</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="-23.222716693" lon="-70.504316669">
+    <name>019</name>
+    <cmt>019</cmt>
+    <desc>019</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="-23.243583357" lon="-70.505183358">
+    <name>020</name>
+    <cmt>020</cmt>
+    <desc>020</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="-23.307333346" lon="-70.503816688">
+    <name>021</name>
+    <cmt>021</cmt>
+    <desc>021</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="-23.340333318" lon="-70.495266644">
+    <name>022</name>
+    <cmt>022</cmt>
+    <desc>022</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="-23.304783320" lon="-70.514366655">
+    <name>023</name>
+    <cmt>023</cmt>
+    <desc>023</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="-23.306249985" lon="-70.529633369">
+    <name>024</name>
+    <cmt>024</cmt>
+    <desc>024</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="-23.314366685" lon="-70.539716631">
+    <name>025</name>
+    <cmt>025</cmt>
+    <desc>025</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="-23.332116706" lon="-70.549950013">
+    <name>026</name>
+    <cmt>026</cmt>
+    <desc>026</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="-23.388983309" lon="-70.533700017">
+    <name>027</name>
+    <cmt>027</cmt>
+    <desc>027</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="-23.437383352" lon="-70.482100016">
+    <name>028</name>
+    <cmt>028</cmt>
+    <desc>028</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="-23.404383296" lon="-70.454999981">
+    <name>029</name>
+    <cmt>029</cmt>
+    <desc>029</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="-23.411183367" lon="-70.442399969">
+    <name>030</name>
+    <cmt>030</cmt>
+    <desc>030</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <rte>
+    <name>ETAPA 1 RHINO</name>
+    <rtept lat="-23.411349999" lon="-70.441049980">
+      <name>001</name>
+      <cmt>001</cmt>
+      <desc>001</desc>
+      <sym>Flag, Blue</sym>
+    </rtept>
+    <rtept lat="-23.336583339" lon="-70.545316665">
+      <name>002</name>
+      <cmt>002</cmt>
+      <desc>002</desc>
+      <sym>Flag, Blue</sym>
+    </rtept>
+    <rtept lat="-23.317200020" lon="-70.527816676">
+      <name>003</name>
+      <cmt>003</cmt>
+      <desc>003</desc>
+      <sym>Flag, Blue</sym>
+    </rtept>
+    <rtept lat="-23.289016625" lon="-70.538316686">
+      <name>004</name>
+      <cmt>004</cmt>
+      <desc>004</desc>
+      <sym>Flag, Blue</sym>
+    </rtept>
+    <rtept lat="-23.279133355" lon="-70.534516666">
+      <name>005</name>
+      <cmt>005</cmt>
+      <desc>005</desc>
+      <sym>Flag, Blue</sym>
+    </rtept>
+    <rtept lat="-23.135433337" lon="-70.559549974">
+      <name>006</name>
+      <cmt>006</cmt>
+      <desc>006</desc>
+      <sym>Flag, Blue</sym>
+    </rtept>
+    <rtept lat="-23.099633306" lon="-70.567266690">
+      <name>007</name>
+      <cmt>007</cmt>
+      <desc>007</desc>
+      <sym>Flag, Blue</sym>
+    </rtept>
+    <rtept lat="-23.090866674" lon="-70.568000022">
+      <name>008</name>
+      <cmt>008</cmt>
+      <desc>008</desc>
+      <sym>Flag, Blue</sym>
+    </rtept>
+    <rtept lat="-23.064733325" lon="-70.547233354">
+      <name>009</name>
+      <cmt>009</cmt>
+      <desc>009</desc>
+      <sym>Flag, Blue</sym>
+    </rtept>
+    <rtept lat="-23.068433348" lon="-70.517550018">
+      <name>010</name>
+      <cmt>010</cmt>
+      <desc>010</desc>
+      <sym>Flag, Blue</sym>
+    </rtept>
+    <rtept lat="-23.130400004" lon="-70.498516643">
+      <name>011</name>
+      <cmt>011</cmt>
+      <desc>011</desc>
+      <sym>Flag, Blue</sym>
+    </rtept>
+    <rtept lat="-23.132633362" lon="-70.479966654">
+      <name>012</name>
+      <cmt>012</cmt>
+      <desc>012</desc>
+      <sym>Flag, Blue</sym>
+    </rtept>
+    <rtept lat="-23.121483335" lon="-70.470183296">
+      <name>013</name>
+      <cmt>013</cmt>
+      <desc>013</desc>
+      <sym>Flag, Blue</sym>
+    </rtept>
+    <rtept lat="-23.106383337" lon="-70.456566643">
+      <name>014</name>
+      <cmt>014</cmt>
+      <desc>014</desc>
+      <sym>Flag, Blue</sym>
+    </rtept>
+    <rtept lat="-23.107650010" lon="-70.452083331">
+      <name>015</name>
+      <cmt>015</cmt>
+      <desc>015</desc>
+      <sym>Flag, Blue</sym>
+    </rtept>
+    <rtept lat="-23.120050030" lon="-70.456266655">
+      <name>016</name>
+      <cmt>016</cmt>
+      <desc>016</desc>
+      <sym>Flag, Blue</sym>
+    </rtept>
+    <rtept lat="-23.121500015" lon="-70.469766632">
+      <name>017</name>
+      <cmt>017</cmt>
+      <desc>017</desc>
+      <sym>Flag, Blue</sym>
+    </rtept>
+    <rtept lat="-23.168949969" lon="-70.497266650">
+      <name>018</name>
+      <cmt>018</cmt>
+      <desc>018</desc>
+      <sym>Flag, Blue</sym>
+    </rtept>
+    <rtept lat="-23.222716693" lon="-70.504316669">
+      <name>019</name>
+      <cmt>019</cmt>
+      <desc>019</desc>
+      <sym>Flag, Blue</sym>
+    </rtept>
+    <rtept lat="-23.243583357" lon="-70.505183358">
+      <name>020</name>
+      <cmt>020</cmt>
+      <desc>020</desc>
+      <sym>Flag, Blue</sym>
+    </rtept>
+    <rtept lat="-23.307333346" lon="-70.503816688">
+      <name>021</name>
+      <cmt>021</cmt>
+      <desc>021</desc>
+      <sym>Flag, Blue</sym>
+    </rtept>
+    <rtept lat="-23.340333318" lon="-70.495266644">
+      <name>022</name>
+      <cmt>022</cmt>
+      <desc>022</desc>
+      <sym>Flag, Blue</sym>
+    </rtept>
+    <rtept lat="-23.304783320" lon="-70.514366655">
+      <name>023</name>
+      <cmt>023</cmt>
+      <desc>023</desc>
+      <sym>Flag, Blue</sym>
+    </rtept>
+    <rtept lat="-23.306249985" lon="-70.529633369">
+      <name>024</name>
+      <cmt>024</cmt>
+      <desc>024</desc>
+      <sym>Flag, Blue</sym>
+    </rtept>
+    <rtept lat="-23.314366685" lon="-70.539716631">
+      <name>025</name>
+      <cmt>025</cmt>
+      <desc>025</desc>
+      <sym>Flag, Blue</sym>
+    </rtept>
+    <rtept lat="-23.332116706" lon="-70.549950013">
+      <name>026</name>
+      <cmt>026</cmt>
+      <desc>026</desc>
+      <sym>Flag, Blue</sym>
+    </rtept>
+    <rtept lat="-23.388983309" lon="-70.533700017">
+      <name>027</name>
+      <cmt>027</cmt>
+      <desc>027</desc>
+      <sym>Flag, Blue</sym>
+    </rtept>
+    <rtept lat="-23.437383352" lon="-70.482100016">
+      <name>028</name>
+      <cmt>028</cmt>
+      <desc>028</desc>
+      <sym>Flag, Blue</sym>
+    </rtept>
+    <rtept lat="-23.404383296" lon="-70.454999981">
+      <name>029</name>
+      <cmt>029</cmt>
+      <desc>029</desc>
+      <sym>Flag, Blue</sym>
+    </rtept>
+    <rtept lat="-23.411183367" lon="-70.442399969">
+      <name>030</name>
+      <cmt>030</cmt>
+      <desc>030</desc>
+      <sym>Flag, Blue</sym>
+    </rtept>
+  </rte>
+</gpx>
